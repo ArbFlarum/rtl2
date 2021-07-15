@@ -1,5 +1,5 @@
 {
-    "name": "flarumarabia/flarum-ext-arabic",
+    "name": "ArbFlarum/rtl2",
     "type": "flarum-extension",
     "description": "Arabic language pack.",
     "keywords": ["locale"],
